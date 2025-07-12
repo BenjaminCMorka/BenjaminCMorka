@@ -4,7 +4,7 @@
 
 - 📚 Currently learning about Large Language Models (LLMs)
 
-- 👨‍🎓Studied Computer Science with Artificial Intelligence at King's College London**
+- 👨‍🎓Studied Computer Science with Artificial Intelligence at King's College London
 
 - 📝 Read my latest ML Research Paper [here](https://drive.google.com/file/d/1Y-xc53szuK7MYTgYt29YF30FKVb8L4bY/view?usp=sharing)
 
