@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Benjamin</h1>
-- 👨‍💻Software Engineer passionate about building projects with an impact!
+👨‍💻Software Engineer passionate about building projects with an impact!
 
 - 📚 Currently learning about Large Language Models (LLMs)
 
