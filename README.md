@@ -5,14 +5,14 @@
 - 📚 Currently learning about Large Language Models (LLMs)
 
 - 👨‍🎓Studied Computer Science with Artificial Intelligence at King's College London
-
-- 📝 Read my latest ML Research Paper [here](https://drive.google.com/file/d/1Y-xc53szuK7MYTgYt29YF30FKVb8L4bY/view?usp=sharing)
+  
+- 📝 Read my latest ML Research Paper <a href="https://drive.google.com/file/d/1Y-xc53szuK7MYTgYt29YF30FKVb8L4bY/view?usp=sharing" target="_blank">here</a>
 
 - 📫 How to reach me **benjaminmorkapro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/benjamin-morka" target="blank">
+  <a href="https://linkedin.com/in/benjamin-morka" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benjamin-morka" height="30" width="40" />
   </a>
 </p>
