@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Benjamin!</h1>
 <h3 align="center">A Computer Science with AI Graduate</h3>
 
-- 📝 Read my latest ML Research Paper [https://drive.google.com/file/d/1Y-xc53szuK7MYTgYt29YF30FKVb8L4bY/view?usp=sharing](https://drive.google.com/file/d/1Y-xc53szuK7MYTgYt29YF30FKVb8L4bY/view?usp=sharing)
+- 📝 Read my latest ML Research Paper [https://drive.google.com/file/d/1Y-xc53szuK7MYTgYt29YF30FKVb8L4bY/view?usp=sharing](here)
 
 - 📫 How to reach me **benjaminmorkapro@gmail.com**
 
