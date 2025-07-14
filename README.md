@@ -6,7 +6,7 @@
 
 - 📚 Currently learning about Large Language Models (LLMs)
 
-Watch my a demo video of my ML Recommender system project [here](https://youtu.be/Kk1nljuuW1w?si=4Wu078TpJ48kOia9) !
+Watch a demo video of my ML Recommender system project [here](https://youtu.be/Kk1nljuuW1w?si=4Wu078TpJ48kOia9) !
 
   
 
