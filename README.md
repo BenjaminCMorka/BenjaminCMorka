@@ -6,10 +6,10 @@
 
 - 📚 Currently learning about Large Language Models (LLMs)
 
-Watch my ML Recommender System demo [here](https://youtube.com/watch?v=YOUR_VIDEO_ID) 
-<a href="https://youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="20" width="20" />
-</a>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="20" width="20" /> Watch my ML Recommender System demo [here](https://youtu.be/Kk1nljuuW1w?si=4Wu078TpJ48kOia9) 
+
+  
+
 
 
 <h3 align="left">Connect with me:</h3>
