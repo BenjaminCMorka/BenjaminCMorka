@@ -6,7 +6,7 @@
 
 - 📚 Currently learning about Large Language Models (LLMs)
 
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="20" width="20" />  Watch my ML Recommender System demo [here](https://youtu.be/Kk1nljuuW1w?si=4Wu078TpJ48kOia9) 
+Watch my a demo video of my ML Recommender system project [here](https://youtu.be/Kk1nljuuW1w?si=4Wu078TpJ48kOia9) !
 
   
 
