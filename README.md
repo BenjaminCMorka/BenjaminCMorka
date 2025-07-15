@@ -9,7 +9,8 @@
 
 Watch a demo video of my ML Recommender system project [here](https://youtu.be/Kk1nljuuW1w?si=4Wu078TpJ48kOia9) !
 
-Try out my AI Resume Optimizer Site [here](https://resume-reviewer-coral.vercel.app) !
+Try out my AI Resume Optimizer Site at:
+[https://resume-reviewer-coral.vercel.app](https://resume-reviewer-coral.vercel.app) !
 
 
   
