@@ -9,8 +9,8 @@
 
 Watch a demo video of my ML Recommender system project [here](https://youtu.be/Kk1nljuuW1w?si=4Wu078TpJ48kOia9) !
 
-Try out my AI Resume Optimizer Site at:
-[https://resume-reviewer-coral.vercel.app](https://resume-reviewer-coral.vercel.app) !
+I built a CNN Skin Condition Classification model recently, try it out at:
+[https://skin-condition-classifier.vercel.app](https://skin-condition-classifier.vercel.app) !
 
 
   
