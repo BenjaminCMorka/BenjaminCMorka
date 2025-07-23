@@ -7,7 +7,7 @@
 - 📚 Currently learning about Large Language Models (LLMs)
 
 
-Watch a demo video of my ML Recommender system project [here](https://youtu.be/Kk1nljuuW1w?si=4Wu078TpJ48kOia9) !
+Watch a demo video of my ML Recommender System project [here](https://youtu.be/Kk1nljuuW1w?si=4Wu078TpJ48kOia9) !
 
 I built a CNN Skin Condition Classification model recently. Try it out at:
 [https://skin-condition-classifier.vercel.app](https://skin-condition-classifier.vercel.app) !
