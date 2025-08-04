@@ -9,8 +9,8 @@
 
 Watch a demo video of my ML Recommender System project [here](https://youtu.be/Kk1nljuuW1w?si=4Wu078TpJ48kOia9) !
 
-I built a CNN Skin Condition Classification model recently. Try it out at:
-[https://skin-condition-classifier.vercel.app](https://skin-condition-classifier.vercel.app) !
+I built a Parallel QuickSort Benchmark Suite. Check the results out here:
+[https://minihpc-quicksort-benchmark.onrender.com](https://minihpc-quicksort-benchmark.onrender.com) !
 
 
   
