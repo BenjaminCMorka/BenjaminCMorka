@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Benjamin</h1>
 
-👨‍💻 Software Engineer passionate about building interesting projects!
+👨‍💻 Software Engineer passionate about building impactful projects!
 
 - 👨‍🎓 Studied Computer Science with Artificial Intelligence at King's College London
 
