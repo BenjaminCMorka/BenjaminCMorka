@@ -1,19 +1,15 @@
 <h1 align="center">Hi, I'm Benjamin</h1>
 
-👨‍💻 Software Engineer passionate about building impactful projects!
+Software Engineer. I like building cool projects.
 
-- 👨‍🎓 Studied Computer Science with Artificial Intelligence at King's College London
+-  Studied Computer Science with Artificial Intelligence at King's College London
 
-- 📚 Currently learning about Large Language Models (LLMs)
-
-
-Watch a demo video of my ML Recommender System project [here](https://youtu.be/Kk1nljuuW1w?si=4Wu078TpJ48kOia9) !
-
-I built a Parallel QuickSort Benchmark Suite. Check the results out here:
-[https://minihpc-quicksort-benchmark.onrender.com](https://minihpc-quicksort-benchmark.onrender.com) !
+- Currently learning about Large Language Models (LLMs)
 
 
-  
+Watch a demo video of my Recommender System project [here](https://youtu.be/Kk1nljuuW1w?si=4Wu078TpJ48kOia9) !
+
+
 
 
 <h3 align="left">Connect with me:</h3>
