@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Benjamin</h1>
+<h1 align="center">Hey, I'm Ben</h1>
 
 Software Engineer. I like building cool projects.
 
