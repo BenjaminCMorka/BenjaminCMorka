@@ -1,13 +1,13 @@
 <h1 align="center">Hey, I'm Ben</h1>
 
-Software Engineer. I like building cool projects.
+Software Engineer. I like building cool projects, and figuring out how things work under the hood.
 
 -  Studied Computer Science with Artificial Intelligence at King's College London
 
 - Currently learning about Large Language Models (LLMs)
 
 
-Watch a demo video of my Recommender System project [here](https://youtu.be/Kk1nljuuW1w?si=4Wu078TpJ48kOia9) !
+Watch a demo video of my Skin Condition Classifier project [here](https://youtu.be/-szI7czoZAc?si=AzF3RvuNGcJokAbV)) !
 
 
 
