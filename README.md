@@ -9,7 +9,7 @@ I like building cool stuff, and figuring out how things work under the hood.
 - Currently learning about Large Language Models (LLMs)
 
 
-Watch a demo video of my Skin Condition Classifier project [here](https://youtu.be/-szI7czoZAc?si=AzF3RvuNGcJokAbV)) !
+Watch a demo video of my Skin Condition Classifier project [here](https://youtu.be/-szI7czoZAc?si=AzF3RvuNGcJokAbV) !
 
 
 
