@@ -1,7 +1,5 @@
 <h1 align="center">Hey, I'm Ben</h1>
 
-Software Engineer. 
-
 I like building cool stuff, and figuring out how things work under the hood.
 
 -  Studied Computer Science with Artificial Intelligence at King's College London
