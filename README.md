@@ -4,7 +4,7 @@ I like building cool stuff, and figuring out how things work under the hood.
 
 -  Studied Computer Science with Artificial Intelligence at King's College London
 
-- Currently learning about Large Language Models (LLMs)
+-  Currently deepening my understanding of quantitative finance and market dynamics.
 
 
 Watch a demo video of my Skin Condition Classifier project [here](https://youtu.be/-szI7czoZAc?si=AzF3RvuNGcJokAbV) !
